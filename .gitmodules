@@ -1,0 +1,15 @@
+[submodule "devspace"]
+	path = devspace
+	url = git://github.com/ome/devspace
+[submodule "omego"]
+	path = omego
+	url = git://github.com/ome/omego
+[submodule "scc"]
+	path = scc
+	url = git://github.com/ome/scc
+[submodule "build-infra"]
+	path = build-infra
+	url = git://github.com/ome/build-infra
+[submodule "omero-test-infra"]
+	path = omero-test-infra
+	url = git://github.com/ome/omero-test-infra
